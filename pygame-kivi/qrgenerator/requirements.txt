@@ -1,0 +1,4 @@
+kivy
+qrcode
+pillow
+validators
