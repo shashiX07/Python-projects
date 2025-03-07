@@ -1,6 +1,3 @@
- ```md
-// filepath: d:\code\python\pfiles\command-line\ReadMe.md
-
 # Command-Line Utilities
 
 This folder contains Python-based command-line tools for a bakery ordering system and two mini-games:  
